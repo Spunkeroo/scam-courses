@@ -1,0 +1,258 @@
+[
+  {
+    "id": "kevin-david",
+    "name": "Kevin David",
+    "slug": "kevin-david",
+    "course": "Amazon FBA Ninja Course",
+    "category": "dropshipping",
+    "price": "$997 - $3,997",
+    "claims": [
+      "Make $10,000/month selling on Amazon with no experience",
+      "Quit your 9-5 within 90 days",
+      "Follow my exact blueprint to financial freedom"
+    ],
+    "reality": "The Amazon FBA market is extremely saturated. Kevin's course teaches basics available free on YouTube. Most students report losing money on inventory and ads. His income primarily comes from course sales, not Amazon FBA.",
+    "redFlags": [
+      "Rented Lamborghinis and mansions in ads",
+      "Income claims without proof or disclaimers",
+      "Aggressive upselling to higher-priced tiers",
+      "Fake urgency ('only 3 spots left')",
+      "Testimonials from other course sellers, not actual students"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "Basic Amazon FBA info repackaged at massive markup. Most students lose money. Free YouTube tutorials teach the same content.",
+    "sources": [
+      "https://youtube.com/watch?v=HiIcwt_77Hk",
+      "https://youtube.com/watch?v=L7o6HymJmyc"
+    ],
+    "image": ""
+  },
+  {
+    "id": "tai-lopez",
+    "name": "Tai Lopez",
+    "slug": "tai-lopez",
+    "course": "Social Media Marketing Agency (SMMA)",
+    "category": "marketing",
+    "price": "$697 - $2,997",
+    "claims": [
+      "Here in my garage, just bought this Lamborghini",
+      "Knowledge is the real asset — buy my course to learn",
+      "Build a million-dollar social media agency"
+    ],
+    "reality": "Tai Lopez is famous for flexing rented luxury items. His courses contain generic marketing advice. The 'Lamborghini in the garage' was later revealed to be rented. His wealth comes from course and ad revenue, not from the businesses he teaches.",
+    "redFlags": [
+      "Flexing rented luxury items as proof of wealth",
+      "Vague promises of 'the good life'",
+      "67 Steps program is motivational fluff",
+      "Constant upselling and subscription traps",
+      "Claims expertise in dozens of unrelated fields"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "The original fake guru. Rented Lambos, rented mansions, recycled motivational content. His real business is selling you the dream.",
+    "sources": [
+      "https://youtube.com/watch?v=L7o6HymJmyc"
+    ],
+    "image": ""
+  },
+  {
+    "id": "dan-lok",
+    "name": "Dan Lok",
+    "slug": "dan-lok",
+    "course": "High Ticket Closer Certification",
+    "category": "sales",
+    "price": "$2,497 - $49,997",
+    "claims": [
+      "Make $10K-$100K/month as a high ticket closer",
+      "I went from broke immigrant to multimillionaire",
+      "My students are crushing it with this system"
+    ],
+    "reality": "Dan Lok's 'High Ticket Closer' program is essentially a sales training repackaged at extreme prices. Most graduates find it extremely difficult to find clients willing to pay the fees Dan promises. His wealth comes from course sales, not from closing deals for clients.",
+    "redFlags": [
+      "Prices up to $49,997 for 'inner circle' access",
+      "Backstory of being a broke immigrant used as manipulation",
+      "Students pressured to sell his courses to others (MLM-like)",
+      "Fake scarcity and countdown timers",
+      "Most testimonials are from other course sellers"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "Overpriced sales training with MLM-like student recruitment. Inner circle pricing is predatory. Free sales training on YouTube is better.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "sam-ovens",
+    "name": "Sam Ovens",
+    "slug": "sam-ovens",
+    "course": "Consulting Accelerator",
+    "category": "consulting",
+    "price": "$1,999 - $6,000",
+    "claims": [
+      "Start a consulting business from scratch",
+      "Replace your 9-5 income in 6 months",
+      "Join 10,000+ successful graduates"
+    ],
+    "reality": "While Sam Ovens' course has more substance than most, the success rate is vastly overstated. The '10,000+ graduates' claim counts anyone who enrolled, not actual successes. The market for generic consulting is extremely competitive.",
+    "redFlags": [
+      "Survivorship bias in testimonials",
+      "Success rate claims that count enrollment, not results",
+      "Upselling to more expensive programs",
+      "Webinar uses high-pressure tactics",
+      "Students primarily make money selling to other aspiring consultants"
+    ],
+    "verdict": "CAUTION",
+    "verdictDetail": "Better than most guru courses but still overpriced. Success stories are cherry-picked. Realistic expectations are rarely set.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "iman-gadzhi",
+    "name": "Iman Gadzhi",
+    "slug": "iman-gadzhi",
+    "course": "Agency Navigator",
+    "category": "marketing",
+    "price": "$1,499",
+    "claims": [
+      "Build a $10K/month agency as a teenager",
+      "Dropped out of school and made millions",
+      "Follow my exact framework"
+    ],
+    "reality": "Iman's course teaches SMMA (Social Media Marketing Agency) basics that are widely available for free. While he has built a real business, his income is primarily from courses, not client services. The market for SMMA is extremely saturated.",
+    "redFlags": [
+      "Targets young people with dropout success story",
+      "Flexes lifestyle to sell the dream",
+      "SMMA market is massively oversaturated",
+      "Most value is available free on YouTube",
+      "Creates urgency with limited enrollment claims"
+    ],
+    "verdict": "CAUTION",
+    "verdictDetail": "Legitimate content but massively overpriced for what you get. SMMA market is saturated. Free alternatives exist.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "andrew-tate",
+    "name": "Andrew Tate",
+    "slug": "andrew-tate",
+    "course": "Hustlers University / The Real World",
+    "category": "crypto",
+    "price": "$49.99/month",
+    "claims": [
+      "Escape the Matrix",
+      "Learn crypto, copywriting, ecommerce, freelancing",
+      "Join a brotherhood of winners"
+    ],
+    "reality": "Despite the low price point, Hustlers University operates like an MLM. Members earn commissions for recruiting new members. The 'courses' are basic tutorials you can find free online. The Discord community is the main product, not the education.",
+    "redFlags": [
+      "MLM-style affiliate recruitment is the core business model",
+      "Students incentivized to spam social media with recruitment",
+      "Course content is surface-level across too many topics",
+      "Cult-like community discourages criticism",
+      "Controversial figure using outrage for marketing"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "MLM disguised as education. Members are the product, not the students. Affiliate recruitment is the real business model.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "grant-cardone",
+    "name": "Grant Cardone",
+    "slug": "grant-cardone",
+    "course": "10X Growth Conference / Cardone University",
+    "category": "sales",
+    "price": "$997 - $10,000+",
+    "claims": [
+      "10X your income, your business, your life",
+      "I own $4 billion in real estate",
+      "Stop being average — invest in yourself"
+    ],
+    "reality": "Grant Cardone's real estate empire is heavily leveraged with debt. His courses teach aggressive sales tactics that many consider manipulative. The 10X conferences are primarily sales funnels for more expensive programs. Most of his wealth claims are based on gross asset values, not net worth.",
+    "redFlags": [
+      "Wealth claims based on gross assets, not net worth",
+      "Aggressive high-pressure sales tactics taught and used",
+      "Conferences are expensive sales funnels",
+      "Real estate fund accessible only to accredited investors",
+      "Constant upselling to higher-priced programs"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "Misleading wealth claims. Conferences are sales funnels. Teaches aggressive tactics many consider unethical.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "robert-kiyosaki",
+    "name": "Robert Kiyosaki",
+    "slug": "robert-kiyosaki",
+    "course": "Rich Dad Seminars & Workshops",
+    "category": "real-estate",
+    "price": "$200 - $45,000",
+    "claims": [
+      "Rich Dad Poor Dad — learn what the rich teach their kids",
+      "Financial education the schools don't teach",
+      "Build passive income through real estate"
+    ],
+    "reality": "While the original Rich Dad book has some valid principles, the seminar business is a licensed operation that has faced multiple lawsuits and complaints. The workshops use extreme upselling, pushing attendees into $45,000 mentorship programs using credit cards they're told to max out.",
+    "redFlags": [
+      "Seminars encourage maxing out credit cards to pay for advanced programs",
+      "Licensed operators, not Kiyosaki himself, run most events",
+      "Multiple FTC complaints and lawsuits",
+      "Free seminar is a sales pitch for paid seminars",
+      "Company filed for bankruptcy in 2012"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "The book is fine. The seminar business is predatory. They push you to max out credit cards for $45,000 programs run by licensees.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "bitboy-crypto",
+    "name": "BitBoy Crypto (Ben Armstrong)",
+    "slug": "bitboy-crypto",
+    "course": "Paid Groups / Altcoin Picks",
+    "category": "crypto",
+    "price": "$99 - $499/month",
+    "claims": [
+      "My altcoin picks will 100x",
+      "I called the Bitcoin bottom",
+      "Join my inner circle for alpha calls"
+    ],
+    "reality": "BitBoy Crypto was exposed for promoting tokens he was paid to shill without disclosing the payments. He was fired from his own company after erratic behavior. His 'picks' often dumped after his audience bought in, a classic pump-and-dump pattern.",
+    "redFlags": [
+      "Undisclosed paid promotions for tokens",
+      "Pump-and-dump pattern with recommended tokens",
+      "Fired from his own company for erratic behavior",
+      "Cherry-picks winning calls, ignores losses",
+      "Aggressive behavior toward critics"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "Exposed for undisclosed paid crypto promotions. Pump-and-dump pattern. Fired from his own company. Do not trust his 'picks'.",
+    "sources": [],
+    "image": ""
+  },
+  {
+    "id": "forex-signals",
+    "name": "Forex Signal Sellers",
+    "slug": "forex-signals",
+    "course": "Forex Signal Groups (Generic Pattern)",
+    "category": "forex",
+    "price": "$50 - $500/month",
+    "claims": [
+      "Copy my trades and make $1,000/day",
+      "95% win rate on all signals",
+      "Financial freedom through forex trading"
+    ],
+    "reality": "The vast majority of forex signal services are scams. They show cherry-picked results, use demo accounts for screenshots, and make money from subscriptions — not trading. Studies show 70-80% of retail forex traders lose money. Signal sellers profit from subscriptions, not their own trading.",
+    "redFlags": [
+      "Screenshots from demo accounts, not real money",
+      "Win rate claims that defy market reality",
+      "No verified track record on third-party platforms",
+      "Pressure to join quickly before 'price increases'",
+      "Revenue comes from subscriptions, not actual trading",
+      "Photoshopped profit screenshots"
+    ],
+    "verdict": "AVOID",
+    "verdictDetail": "Almost all forex signal services are scams. They make money from your subscription, not from trading. 70-80% of retail forex traders lose money.",
+    "sources": [],
+    "image": ""
+  }
+]

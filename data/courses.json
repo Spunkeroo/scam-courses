@@ -1,0 +1,170 @@
+[
+  {
+    "id": "crypto-safety",
+    "title": "Crypto Safety 101",
+    "slug": "crypto-safety",
+    "category": "crypto",
+    "difficulty": "Beginner",
+    "duration": "30 min",
+    "description": "Learn how to secure your crypto wallet, verify legitimate projects, and avoid the most common crypto scams.",
+    "lessons": [
+      {
+        "title": "Understanding Wallet Security",
+        "content": "Your crypto wallet is your bank account. Here's how to keep it safe:\n\n1. **Never share your seed phrase** — No legitimate service, exchange, or support team will ever ask for your seed phrase. Period. If someone asks for it, it's a scam.\n\n2. **Use a hardware wallet** — For any significant holdings, use a hardware wallet like Ledger or Trezor. These keep your private keys offline and safe from hackers.\n\n3. **Enable 2FA everywhere** — Use authenticator apps (Google Authenticator, Authy), NOT SMS-based 2FA which can be SIM-swapped.\n\n4. **Bookmark your exchanges** — Never click links from emails or DMs. Always type the URL or use bookmarks.\n\n5. **Use a dedicated browser** — Keep a separate browser with no extensions for crypto activity."
+      },
+      {
+        "title": "Verifying Projects Before Investing",
+        "content": "Before putting money into any crypto project, check these:\n\n1. **Team verification** — Are the team members real people with verifiable backgrounds? Check LinkedIn, search their names.\n\n2. **Smart contract audit** — Has the contract been audited by reputable firms like CertiK or Trail of Bits? Is it verified on Etherscan?\n\n3. **Liquidity check** — Is liquidity locked? For how long? Use tools like DexTools or DexScreener.\n\n4. **Community analysis** — Is the community organic or full of bots? Check Twitter followers for engagement ratio.\n\n5. **Token Sniffer** — Run the token through Token Sniffer or RugDoc for automated red flag detection."
+      },
+      {
+        "title": "Common Crypto Scams to Avoid",
+        "content": "Here are the most common crypto scams:\n\n1. **Rug Pulls** — Developers create a token, hype it up, then drain the liquidity and disappear with your money.\n\n2. **Pump and Dumps** — Coordinated buying to inflate price, then selling at the top while you hold the bag.\n\n3. **Fake Airdrops** — 'Connect your wallet to claim free tokens' — but the smart contract drains your wallet instead.\n\n4. **Phishing Sites** — Fake exchange or DeFi sites that look identical to real ones but steal your credentials.\n\n5. **Double Your Crypto** — ALWAYS a scam. No one will double your crypto. Ever."
+      }
+    ],
+    "resources": [
+      { "name": "Token Sniffer", "url": "https://tokensniffer.com" },
+      { "name": "Revoke.cash", "url": "https://revoke.cash" },
+      { "name": "Chainabuse", "url": "https://www.chainabuse.com" }
+    ]
+  },
+  {
+    "id": "phishing-defense",
+    "title": "Phishing Defense",
+    "slug": "phishing-defense",
+    "category": "online",
+    "difficulty": "Beginner",
+    "duration": "25 min",
+    "description": "Learn to spot fake emails, websites, and messages before they steal your information or money.",
+    "lessons": [
+      {
+        "title": "Spotting Fake Emails",
+        "content": "Phishing emails are getting more sophisticated. Here's how to spot them:\n\n1. **Check the sender address** — Look carefully. paypa1.com is NOT paypal.com. amaz0n-support.com is NOT amazon.com.\n\n2. **Hover over links** — Before clicking any link, hover over it to see the actual URL. If it doesn't match the expected domain, don't click.\n\n3. **Look for urgency** — 'Your account will be suspended in 24 hours!' is a classic pressure tactic.\n\n4. **Check for personalization** — Legitimate companies use your name. 'Dear Customer' or 'Dear User' is suspicious.\n\n5. **Grammar and spelling** — While improving, many phishing emails still have telltale errors."
+      },
+      {
+        "title": "Identifying Fake Websites",
+        "content": "Fake websites can look identical to real ones:\n\n1. **Check the URL carefully** — Look for misspellings, extra characters, or wrong TLDs (paypal.com.evil.com).\n\n2. **Look for HTTPS** — But remember, HTTPS alone doesn't mean a site is safe. Scammers use HTTPS too.\n\n3. **Check the domain age** — Use WHOIS lookup. Legitimate sites have been around for years.\n\n4. **Use browser bookmarks** — Bookmark your bank, exchange, and important sites. Always use bookmarks.\n\n5. **Enable browser warnings** — Keep your browser's safe browsing features enabled."
+      },
+      {
+        "title": "Protecting Yourself",
+        "content": "Prevention is better than cure:\n\n1. **Use a password manager** — 1Password, Bitwarden, or similar. Unique passwords for every site.\n\n2. **Enable 2FA** — On every important account. Use authenticator apps, not SMS.\n\n3. **Don't click links in emails** — Go directly to the website instead.\n\n4. **Report phishing** — Forward phishing emails to the company being impersonated and to reportfraud.ftc.gov.\n\n5. **Keep software updated** — Browsers, operating systems, and apps. Updates patch security vulnerabilities."
+      }
+    ],
+    "resources": [
+      { "name": "1Password", "url": "https://1password.com" },
+      { "name": "FTC Fraud Report", "url": "https://reportfraud.ftc.gov" },
+      { "name": "Have I Been Pwned", "url": "https://haveibeenpwned.com" }
+    ]
+  },
+  {
+    "id": "romance-scam-red-flags",
+    "title": "Romance Scam Red Flags",
+    "slug": "romance-scam-red-flags",
+    "category": "romance",
+    "difficulty": "Beginner",
+    "duration": "20 min",
+    "description": "Recognize pig butchering, catfishing, and romance scam patterns before you lose money or your heart.",
+    "lessons": [
+      {
+        "title": "How Romance Scams Work",
+        "content": "Romance scams follow a predictable pattern:\n\n1. **Contact** — They reach out on dating apps, social media, or even LinkedIn. Profile pictures are stolen from real people.\n\n2. **Love Bombing** — They shower you with attention, compliments, and declarations of love very quickly.\n\n3. **The Story** — They claim to be military, doctors, engineers working overseas — anything to explain why they can't meet in person.\n\n4. **The Ask** — After building emotional connection, they need money for an emergency, a plane ticket, medical bills, or a 'sure thing' investment.\n\n5. **Escalation** — The requests get bigger. They may introduce 'pig butchering' — convincing you to invest in fake crypto platforms."
+      },
+      {
+        "title": "Red Flags to Watch For",
+        "content": "Watch for these warning signs:\n\n1. **They can never video call** — Or if they do, the 'camera is broken.' They avoid anything that proves their identity.\n\n2. **Too perfect, too fast** — They say everything you want to hear. The relationship moves unrealistically fast.\n\n3. **Asks for money** — Anyone who asks for money online before meeting in person is likely a scammer.\n\n4. **Inconsistent story** — Details change. Time zones don't match up. Their English skill varies between messages.\n\n5. **They're overseas** — They claim to be deployed, working on an oil rig, or stuck in another country."
+      },
+      {
+        "title": "What To Do If You Suspect a Scam",
+        "content": "If something feels off, trust your gut:\n\n1. **Reverse image search** — Upload their profile picture to Google Images or TinEye. Scammers use stolen photos.\n\n2. **Ask to video call** — Insist on a video call. If they refuse or make excuses repeatedly, it's likely a scam.\n\n3. **Never send money** — No matter the story, never send money to someone you haven't met in person.\n\n4. **Talk to someone** — Tell a friend or family member about the relationship. Outside perspective helps.\n\n5. **Report it** — Report the profile to the dating app or social media platform, and to the FTC."
+      }
+    ],
+    "resources": [
+      { "name": "FTC Romance Scam Info", "url": "https://consumer.ftc.gov/articles/what-know-about-romance-scams" },
+      { "name": "Google Reverse Image Search", "url": "https://images.google.com" },
+      { "name": "Scam.stream", "url": "https://scam.stream" }
+    ]
+  },
+  {
+    "id": "investment-scam-detection",
+    "title": "Investment Scam Detection",
+    "slug": "investment-scam-detection",
+    "category": "finance",
+    "difficulty": "Intermediate",
+    "duration": "35 min",
+    "description": "Learn to identify Ponzi schemes, pyramid schemes, and too-good-to-be-true investment opportunities.",
+    "lessons": [
+      {
+        "title": "Ponzi Schemes Explained",
+        "content": "A Ponzi scheme pays old investors with new investors' money:\n\n1. **Consistent returns** — They promise steady, above-market returns (10%+ monthly is always a red flag).\n\n2. **No real investment** — There's no actual product, trade, or investment. Your money goes to pay earlier investors.\n\n3. **Recruitment pressure** — They push you to bring in friends and family, because they need new money to pay you.\n\n4. **Difficulty withdrawing** — When you try to take profits, there are delays, fees, or minimum hold periods.\n\n5. **Famous examples** — Bernie Madoff ($65B), BitConnect ($2.6B), OneCoin ($4B+)."
+      },
+      {
+        "title": "Pyramid & MLM Warning Signs",
+        "content": "Pyramid schemes disguised as businesses:\n\n1. **Recruitment > Sales** — If making money requires recruiting others rather than selling a real product, it's a pyramid.\n\n2. **Inventory loading** — Required to buy large amounts of product upfront.\n\n3. **Income disclosure** — Look at the company's income disclosure statement. Usually 99% of participants lose money.\n\n4. **Pay to play** — Paying to join or paying monthly fees for the right to sell.\n\n5. **Complex compensation plans** — If you need a degree in math to understand how you get paid, that's by design."
+      },
+      {
+        "title": "Due Diligence Checklist",
+        "content": "Before investing in anything:\n\n1. **Is the company registered?** — Check with the SEC (EDGAR), FINRA BrokerCheck, or your state regulator.\n\n2. **Can you verify returns?** — Ask for audited financial statements from a reputable accounting firm.\n\n3. **Understand the business model** — If you can't explain how the investment makes money in simple terms, don't invest.\n\n4. **Check for complaints** — Search '[company name] scam' or '[company name] complaints.'\n\n5. **Is it too good to be true?** — The S&P 500 averages ~10% annually. Anything promising significantly more is likely a scam."
+      }
+    ],
+    "resources": [
+      { "name": "SEC EDGAR", "url": "https://www.sec.gov/edgar" },
+      { "name": "FINRA BrokerCheck", "url": "https://brokercheck.finra.org" },
+      { "name": "scam.wiki", "url": "https://scam.wiki" }
+    ]
+  },
+  {
+    "id": "online-shopping-safety",
+    "title": "Online Shopping Safety",
+    "slug": "online-shopping-safety",
+    "category": "online",
+    "difficulty": "Beginner",
+    "duration": "20 min",
+    "description": "Spot fake stores, review fraud, and protect yourself when shopping online.",
+    "lessons": [
+      {
+        "title": "Identifying Fake Online Stores",
+        "content": "Fake stores steal your money and credit card info:\n\n1. **Too-cheap prices** — If designer goods are 80% off, it's fake. No one sells $500 shoes for $50.\n\n2. **Check the domain** — New domains (registered recently), misspelled brand names, and unusual TLDs are red flags.\n\n3. **Contact info** — Legitimate stores have real phone numbers, physical addresses, and responsive customer service.\n\n4. **Payment methods** — If they only accept wire transfer, crypto, or gift cards — it's a scam. Legitimate stores accept credit cards.\n\n5. **Social proof** — Check for reviews outside the website. Search '[store name] review' or '[store name] scam.'"
+      },
+      {
+        "title": "Spotting Fake Reviews",
+        "content": "Reviews are easily manipulated:\n\n1. **Review timing** — Many 5-star reviews in a short period is suspicious. Organic reviews come in gradually.\n\n2. **Generic language** — 'Great product! Arrived on time! Love it!' with no specific details.\n\n3. **Reviewer profiles** — Click on reviewers. If they've reviewed dozens of unrelated products in one week, they're fake.\n\n4. **Use tools** — Fakespot and ReviewMeta analyze Amazon review authenticity.\n\n5. **Look for negative reviews** — Genuine products have some negative reviews. All 5-stars is suspicious."
+      },
+      {
+        "title": "Safe Shopping Practices",
+        "content": "Protect yourself when shopping online:\n\n1. **Use credit cards** — Credit cards offer dispute protection. Debit cards don't. Never use wire transfers.\n\n2. **Check for HTTPS** — But remember, HTTPS alone doesn't mean a site is safe.\n\n3. **Use PayPal or Apple Pay** — These add a layer of protection between your card and the merchant.\n\n4. **Monitor your statements** — Check credit card statements regularly for unauthorized charges.\n\n5. **Be skeptical of social media ads** — Many scam stores run polished Instagram and Facebook ads."
+      }
+    ],
+    "resources": [
+      { "name": "Fakespot", "url": "https://www.fakespot.com" },
+      { "name": "ReviewMeta", "url": "https://reviewmeta.com" },
+      { "name": "BBB Scam Tracker", "url": "https://www.bbb.org/scamtracker" }
+    ]
+  },
+  {
+    "id": "phone-scam-survival",
+    "title": "Phone Scam Survival",
+    "slug": "phone-scam-survival",
+    "category": "phone",
+    "difficulty": "Beginner",
+    "duration": "20 min",
+    "description": "Recognize and defend against tech support, IRS, grandparent, and other phone scams.",
+    "lessons": [
+      {
+        "title": "Common Phone Scam Types",
+        "content": "Phone scammers use these tactics:\n\n1. **Tech support scams** — 'Your computer has a virus!' They want remote access to steal your data or install malware.\n\n2. **IRS/Tax scams** — 'You owe back taxes and will be arrested!' The real IRS never calls demanding immediate payment.\n\n3. **Grandparent scams** — 'Grandma, I'm in jail and need bail money!' They target elderly people by impersonating grandchildren.\n\n4. **Bank fraud scams** — 'We detected suspicious activity.' They ask you to 'verify' your account info, which they then steal.\n\n5. **Prize/lottery scams** — 'You've won! Just pay the processing fee.' You didn't win anything."
+      },
+      {
+        "title": "How To Respond",
+        "content": "When you get a suspicious call:\n\n1. **Don't trust caller ID** — Scammers spoof real phone numbers. Your caller ID might show 'IRS' or your bank's number.\n\n2. **Hang up and call back** — If a bank or agency calls, hang up and call the number on their official website.\n\n3. **Never give remote access** — No legitimate company will cold-call you and ask for remote access to your computer.\n\n4. **Don't pay with gift cards** — No legitimate organization accepts payment in gift cards, crypto, or wire transfers.\n\n5. **Take your time** — Scammers create urgency. A legitimate issue can wait for you to verify."
+      },
+      {
+        "title": "Protecting Yourself and Others",
+        "content": "Prevention and protection:\n\n1. **Register on Do Not Call list** — Register your number at donotcall.gov. It won't stop all calls but reduces legitimate telemarketing.\n\n2. **Use call blocking** — Enable spam call filtering on your phone. Most carriers offer free spam blocking.\n\n3. **Talk to elderly family members** — Educate them about common scams. They're the most targeted demographic.\n\n4. **Report scam calls** — Report to the FTC at reportfraud.ftc.gov.\n\n5. **Watch scam baiting videos** — Channels like Kitboga, Jim Browning, and ScammerPayback show how these scams work in real time."
+      }
+    ],
+    "resources": [
+      { "name": "FTC Do Not Call", "url": "https://www.donotcall.gov" },
+      { "name": "FTC Fraud Report", "url": "https://reportfraud.ftc.gov" },
+      { "name": "scam.video", "url": "https://scam.video" }
+    ]
+  }
+]
